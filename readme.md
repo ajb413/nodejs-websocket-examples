@@ -6,7 +6,7 @@ This repo contains some example code for making a Node.js socket server and clie
  - https://www.youtube.com/watch?v=YaJbc7s1ROg
 
 ## Tutorial Blog Post on PubNub Blog
- - [Coming Soon](https://www.pubnub.com/blog/)
+ - [Node.js WebSocket Programming Examples | PubNub Blog](https://www.pubnub.com/blog/nodejs-websocket-programming-examples/?devrel_gh=nodejs-websocket-examples)
 
 ## Running the Code
  - [Install Node.js and NPM](https://nodejs.org/en/download/)
