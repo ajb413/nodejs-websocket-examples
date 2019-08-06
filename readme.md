@@ -25,7 +25,7 @@ This repo contains some example code for making a Node.js socket server and clie
  - Open `client.html` in your web browser
 
 ### PubNub Pub/Sub Messaging Example
- - Sign up for a free PubNub Account and insert your free API keys into `pubnub-client1.js` and `pubnub-client2.js`
+ - **Sign up for a free PubNub Account** and insert your **free API keys** into `pubnub-client1.js` and `pubnub-client2.js`
  - Open 2 command line windows
  - `npm install` if you haven't already
  - `node pubnub-client1.js`
